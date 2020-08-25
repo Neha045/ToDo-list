@@ -1,3 +1,3 @@
 # ToDo-list
-Made using JQuery
+Built using JQuery
 https://neha045.github.io/ToDo-list/
